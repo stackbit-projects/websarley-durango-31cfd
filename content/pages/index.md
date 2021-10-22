@@ -9,7 +9,7 @@ sections:
       Soy colombiano viviendo en Turbo. Me gusta escribir blog sobre tecnologia
       y realizar proyectos en comunidad.
     actions:
-      - label: Let's talk
+      - label: Hablemos
         url: /contact
         style: button
   - section_id: latest-projects
